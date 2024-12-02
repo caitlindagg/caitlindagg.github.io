@@ -11,35 +11,45 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Ecosystem Restoration, Western Sydney University, 2025 (expected)
+* M.S. in Computer Science - Bioinformatics Specialisation, Universiteit Leiden
+* Licence Informatique (equiv. B.S. Computer Science), Universite de Bordeaux 
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* August 2023 - Onwards: Academic Tutor
+  * Badanami Centre for Indigenous Education, Western Sydney University
+  * Providing academic support and guidance to students in a diverse and inclusive learning environment
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* April 2022 - December 2022: Graduate Trainee Data Analyst
+  * AIB, Ireland
+  * Data Engineering, Database Management
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* June 2022 - December 2022: Volunteer Warden
+  * Birdwatch Ireland
+  * Kilcoole Little Tern Colony
+
+* December 2019 - April 2022: Barista
+  * AMT
+  * Bray, Ireland
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Research Design 
+* Programming
+  * R, Python, C, Javascript, HTML, Lisp, Processing, MATLAB, ...
+  * Data cleaning & analysis
+  * Database management
+  * Machine learning
+* Project Management, Organisation & Multitasking
+* Languages
+  * English (Native)
+  * French (Bilingual)
+  * German (Advanced)
+  * Irish (Intermediate)
+  * Italian (Intermediate)
+  * Spanish (Beginner)
+
 
 Publications
 ======
@@ -59,6 +69,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

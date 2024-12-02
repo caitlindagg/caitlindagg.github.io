@@ -1,15 +1,11 @@
 ---
 permalink: /
-title: "About: Caitlin Dagg"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-
-# Welcome to My Academic Website
-
 Hi! I'm Caitlin Dagg, a PhD candidate in **Ecosystem Restoration and Biodiversity Conservation** at the [Hawkesbury Institute for the Environment, Western Sydney University](https://www.westernsydney.edu.au/hie).
 
 My research currently focuses on using **remote sensing technologies** like LiDAR to analyse vegetation structure and biodiversity on the **Cumberland Plain** in New South Wales, Australia. I aim to develop data-driven conservation and restoration strategies to improve ecosystem resilience and health.
@@ -19,7 +15,7 @@ My research currently focuses on using **remote sensing technologies** like LiDA
 ## 🔍 **Research Highlights**
 - **Vegetation Structure & Biodiversity:** Understanding the relationships between vegetation complexity and species diversity.
 - **Remote Sensing (LiDAR):** Using advanced spatial data to monitor ecosystems and detect changes over time.
-- **Conservation Prioritization:** Developing landscape-scale strategies for effective restoration and conservation.
+- **Conservation Prioritisation:** Developing landscape-scale strategies for effective restoration and conservation.
 
 Explore more in my [Research](research) section.
 
@@ -27,7 +23,7 @@ Explore more in my [Research](research) section.
 
 ## 📰 **Recent News**
 - **Upcoming Conference Presentation:**  
-  I’ll be presenting my research on the Cumberland Plain's biodiversity and LiDAR analysis at ESA in Melbourne next week. Stay tuned for updates!
+  I’ll be presenting my research on the my work looking at the relationship between Vegetation Structure and Biodiversity in the Cumberland Plain at ESA in Melbourne next week. Stay tuned for updates!
 
 
 ---
