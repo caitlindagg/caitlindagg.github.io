@@ -1,9 +1,9 @@
----
+<!-- ---
 layout: home
 title: "Welcome"
 permalink: /
 ---
-
+ -->
 # Welcome to My Academic Website
 
 Hi! I'm Caitlin Dagg, a PhD candidate in **Ecosystem Restoration and Biodiversity Conservation** at the [Hawkesbury Institute for the Environment, Western Sydney University](https://www.westernsydney.edu.au/hie).
