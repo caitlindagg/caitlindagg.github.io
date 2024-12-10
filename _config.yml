@@ -22,7 +22,7 @@ timezone: "Australia/Sydney"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "biopic_bw.png"
+  avatar           : "biopic_wb.png"
   name             : "Caitlin Dagg"
   pronouns         :  "she/her"  
   bio              : "PhD Candidate researching vegetation structure & biodiversity."
