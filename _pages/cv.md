@@ -17,6 +17,10 @@ Education
 
 Work experience
 ======
+*August 2025 - Onwards: Research Assistant
+  * Hawkesbury Institute for the Environment & Currency Creek Aboretum
+  * Mapping, calculating biomass & DBH, identifying individual trees using LiDAR
+
 * August 2023 - Onwards: Academic Tutor
   * Badanami Centre for Indigenous Education, Western Sydney University
   * Providing academic support and guidance to students in a diverse and inclusive learning environment
