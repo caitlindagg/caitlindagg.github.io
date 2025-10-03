@@ -6,16 +6,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I'm Caitlin Dagg, a PhD candidate in **Ecosystem Restoration and Biodiversity Conservation** at the [Hawkesbury Institute for the Environment, Western Sydney University](https://www.westernsydney.edu.au/hie).
+Hi! I'm Caitlin Dagg, a PhD candidate in Ecosystem Restoration and Biodiversity Conservation at the [Hawkesbury Institute for the Environment, Western Sydney University](https://www.westernsydney.edu.au/hie).
 
-My research currently focuses on using **remote sensing technologies** like LiDAR to analyse vegetation structure and biodiversity on the **Cumberland Plain** in New South Wales, Australia. I aim to develop data-driven conservation and restoration strategies to improve ecosystem resilience and health.
+My research currently focuses on using remote sensing technologies like LiDAR to analyse vegetation structure and biodiversity on the Cumberland Plain in New South Wales, Australia. My goal is developing efficient and cost-effective methods for assessing biodiversity, prioritising sites, planning management interventions and monitoring at a landscape-scale.
 
 ---
 
 ## 🔍 **Research Highlights**
+- **Remote Sensing (LiDAR):** Using spatial data to quantify vegetation structure.
 - **Vegetation Structure & Biodiversity:** Understanding the relationships between vegetation complexity and species diversity.
-- **Remote Sensing (LiDAR):** Using advanced spatial data to monitor ecosystems and detect changes over time.
 - **Conservation Prioritisation:** Developing landscape-scale strategies for effective restoration and conservation.
+- **Management Interventions:** Building on knowledge of specific structure-biodiversity relationships to plan concrete and effective management actions.
 
 Explore more in my [Research](research) section.
 
@@ -23,17 +24,23 @@ Explore more in my [Research](research) section.
 
 ## 📰 **Recent News**
 - **Upcoming Conference Presentation:**  
-  I’ll be presenting my research on the my work looking at the relationship between Vegetation Structure and Biodiversity in the Cumberland Plain at ESA in Melbourne next week. Stay tuned for updates!
+  I’ll be presenting my research on the my work looking at the relationship between Vegetation Structure and Biodiversity in the Cumberland Plain at SER in Denver on October 3rd. Stay tuned for updates!
+
+- **Birdlife Australia Community Grant**
+  I've received a grant to conduct a research project using passive acoustic records to monitor Powerful Owl breeding success at known nesting sites in the Sydney region, and explore the possibility of vocal fingerprinting individuals.
 
 
 ---
 
-## 👥 **Collaborate with Me**
-I'm always open to new collaborations in the fields of:
-- **Ecosystem Restoration**
-- **Biodiversity Monitoring**
-- **Landscape Ecology**
+## 👥 **Work with Me**
+I'm looking for postdoc opportunities in the areas of:
+- **Landdscape-Scale Restoration**
+- **Avian Conservation**
+- **Biodiversity in Working Landscapes**
+- **Bioacoustics**
 
+
+If you're interested in collaborating or hiring, let’s connect!
 Feel free to [contact me](contact) or connect on [BlueSky](https://caitlindagg.bsky.social).
 
 <!-- ---
@@ -48,15 +55,6 @@ Feel free to [contact me](contact) or connect on [BlueSky](https://caitlindagg.b
 More publications can be found [here](publications). -->
 
 ---
-
-## 🌟 **Looking Ahead**
-I’ll be starting my search for a **postdoctoral position** in mid-2025. My areas of interest include:
-- **Landscape-Scale Conservation**
-- **Connectivity and Biodiversity**
-- **Conservation in Working Landscapes & Agroecology**
-- **Avian Conservation**
-
-If you're interested in collaborating or hiring, let’s connect!
 
 ---
 
