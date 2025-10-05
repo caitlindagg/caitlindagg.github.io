@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-*August 2025 - Onwards: Research Assistant
+* August 2025 - Onwards: Research Assistant
   * Hawkesbury Institute for the Environment & Currency Creek Aboretum
   * Mapping, calculating biomass & DBH, identifying individual trees using LiDAR
 
